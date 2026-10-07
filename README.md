@@ -2,7 +2,7 @@
 
 Comparison of three gradient-boosting and ensemble models for detecting fraudulent credit card transactions in a **highly imbalanced dataset** (only 0.17% of transactions are fraud).
 
-![Model comparison](results/model_comparison.png)
+   ![Model comparison](model_comparison.png)
 
 ## Approach
 
